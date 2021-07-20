@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ogginger
+  I'm located in Los Angeles, CA.
+- 👀 I’m interested in ...
+  Mechatronics.
+- 🌱 I’m currently learning ...
+  Tensorflow
